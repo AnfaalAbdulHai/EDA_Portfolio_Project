@@ -86,7 +86,7 @@ Each row represents a single order. Key fields include:
 
 ---
 
-## 💡 Business Insights  
+## Business Insights  
 
 1. **Returns are not driven by dissatisfaction** → focus on **fit, size guides, and logistics**.  
 2. **Gift Card promotions** may encourage higher spending.  
